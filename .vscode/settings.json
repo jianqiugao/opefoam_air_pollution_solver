@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "createFields.H": "cpp",
+        "cpisoFoam.C": "cpp",
+        "incompressibleMomentumTransportModel.H": "cpp",
+        "incompressiblemomentumtransportmodeltemplates.c": "cpp",
+        "incompressibleMomentumTransportModel.C": "cpp",
+        "fvcDDt.C": "cpp",
+        "momentumTransportModel.C": "cpp",
+        "laminarModel.C": "cpp",
+        "viscositymodel.c": "cpp",
+        "physicalProperties.C": "cpp",
+        "regIOobjectRead.C": "cpp",
+        "*.tcc": "cpp",
+        "numbers": "cpp",
+        "regIOobject.H": "cpp",
+        "IOobject.H": "cpp",
+        "IOobject.C": "cpp"
+    }
+}
